@@ -1,0 +1,36 @@
+{
+  "name": "GameNightPlanner",
+  "version": "1.0.0",
+  "size": {
+    "width": 6,
+    "height": 6
+  },
+  "mapping": [
+    {
+      "alias": "boardgames",
+      "dataSetId": "23e419d4-4ce4-4a39-b136-e2390793b144",
+      "fields": []
+    }
+  ],
+  "collections": [
+    {
+      "name": "ownership",
+      "schema": {
+        "columns": [
+          {
+            "name": "boardGameId",
+            "type": "LONG"
+          },
+          {
+            "name": "owned",
+            "type": "STRING"
+          }
+        ]
+      },
+      "syncEnabled": true
+    }
+  ],
+  "fileName": "manifest.json",
+  "id": "8908a3a9-65b7-47fa-9e1e-1fab6901164f",
+  "proxyId": "ca86fd29-749f-47ad-b196-4f467a28b535"
+}
