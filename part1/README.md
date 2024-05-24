@@ -1,0 +1,3 @@
+# Game Night Planner App - Intro to Domo Bricks
+
+This code corresponds to the code used in the Domo Brick developed [in part one of a three part series on building introductory custom apps in Domo](https://developer.domo.com/portal/ndvsmatbqz5gk-game-night-planner-app-intro-to-domo-bricks). In this part, we'll be starting by building our solution as a Domo Brick (the lightest weight way to get into custom app development in Domo). 
